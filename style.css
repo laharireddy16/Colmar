@@ -1,0 +1,49 @@
+
+.abc {
+    
+    margin-left: 24px;
+    padding-top: 20%;
+}
+.btn{
+    background-color: #57606f;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.collapse{
+    margin-left: 59%;
+    
+}
+.img1{
+    margin-left: 2%;
+    
+
+}
+.navbar-brand{
+    margin-left: 1%;
+}
+.img2{
+    margin-left:24px;
+    padding-top: 32px;
+    margin-left: 24px;
+    padding-bottom: 32px;
+    margin-right: 24px;
+}
+.img3{
+    margin-left:24px;
+    padding-top: 32px;
+    margin-left: 24px;
+    padding-bottom: 32px;
+    margin-right: 24px;
+}
+
+.vid{
+    width: 600px;
+    margin-left:24px;
+    padding-top: 32px;
+    padding-bottom: 24px;
+    margin-right: 24px;
+}
+.foot{
+    margin-left: 24px;
+    padding-top: 16px;
+}
